@@ -1,0 +1,59 @@
+Sr No.,First Name, Last Name ,Roll No.,Branch,Email ID,Gender,DoB,Blood group,Medical Condition,Average % of Attendence,EM-I,EP,CP,IM&C,IRSE
+1,Aafreen, Shaikh,24AI001,AI&DS,aafreen.shaikh_btech24@gsv.ac.in,F,15/01/2004,B+,N/A,91.8,93,87,88,93,98
+2,Aayush, Praveen,24AI002,AI&DS,aayush.praveen_btech24@gsv.ac.in,M,22/03/2004,B+,N/A,93.2,95,99,95,91,86
+3,Abhay, Kumar Sahu,24AI003,AI&DS,abhay.sahu_btech24@gsv.ac.in,M,30/05/2004,B+,N/A,89,85,88,93,85,94
+4,Abhinav, Mishra,24AI004,AI&DS,abhinav.mishra_btech24@gsv.ac.in,M,18/06/2004,B+,N/A,90.6,91,91,85,98,88
+5,Abhinav, A Mishra,24AI005,AI&DS,abhinav.a.mishra_btech24@gsv.ac.in,M,07/07/2004,B+,N/A,92,94,88,98,89,91
+6,Abhishek, Karadia,24AI006,AI&DS,abhishek.karadia_btech24@gsv.ac.in,M,12/08/2004,B+,N/A,91.8,94,97,87,95,86
+7,Aditya, Kumar,24AI007,AI&DS,aditya.kumar_btech24@gsv.ac.in,M,03/09/2004,B+,N/A,92.8,98,92,93,95,86
+8,Aman, Kumar,24AI008,AI&DS,aman.kumar_btech24@gsv.ac.in,M,26/10/2004,B+,N/A,95.8,89,100,96,98,96
+9,Aman, Kumar Jha,24AI009,AI&DS,aman.jha_btech24@gsv.ac.in,M,14/11/2004,B+,N/A,92,88,99,99,85,89
+10,Aman, Sharma,24AI010,AI&DS,aman.sharma_btech24@gsv.ac.in,M,05/12/2004,B+,N/A,90,92,90,85,96,87
+11,Ambrish,24AI011,AI&DS,ambrish_btech24@gsv.ac.in,M,25/12/2004,B+,N/A,93.4,89,98,100,89,91
+12,Anuj, Nagar,24AI012,AI&DS,anuj.nagar_btech24@gsv.ac.in,M,04/01/2005,B+,N/A,93,86,99,96,90,94
+13,Arjit, Prasad Das,24AI013,AI&DS,arjit.das_btech24@gsv.ac.in,M,19/02/2005,B+,N/A,92,85,96,97,85,97
+14,Arnav, Gupta,24AI014,AI&DS,arnav.gupta_btech24@gsv.ac.in,M,08/03/2005,B+,N/A,90.2,87,88,91,95,90
+15,Arpit, Kaushik,24AI015,AI&DS,arpit.kaushik_btech24@gsv.ac.in,M,27/04/2005,B+,N/A,90.4,87,93,90,85,97
+16,Aryan, Kumar Yadav,24AI016,AI&DS,aryan.yadav_btech24@gsv.ac.in,M,11/05/2005,B+,N/A,95.2,94,92,100,99,91
+17,Bhavesh,24AI017,AI&DS,bhavesh_btech24@gsv.ac.in,M,29/06/2005,B+,N/A,92.4,90,95,94,97,86
+18,Bommana, Boina Drushadva Srinivas,24AI018,AI&DS,bommana.srinivas_btech24@gsv.ac.in,M,15/07/2005,B+,N/A,90.6,92,85,89,88,99
+19,Chevvakula, Siddartha,24AI019,AI&DS,chevvakula.siddartha_btech24@gsv.ac.in,M,03/08/2005,B+,N/A,94.4,95,96,98,90,93
+20,Chirag, Jindani,24AI020,AI&DS,chirag.jindani_btech24@gsv.ac.in,M,20/09/2005,B+,N/A,94.4,93,98,100,89,92
+21,Dhanya, R,24AI021,AI&DS,dhanya.r_btech24@gsv.ac.in,F,07/10/2005,B+,N/A,91,89,88,87,91,100
+22,Dipesh,24AI022,AI&DS,dipesh_btech24@gsv.ac.in,M,24/11/2005,B+,N/A,91.6,89,96,90,98,85
+23,Divy, Jain,24AI023,AI&DS,divy.jain_btech24@gsv.ac.in,M,13/12/2005,B+,N/A,92.8,95,86,95,98,90
+24,Eka, Chandu,24AI024,AI&DS,eka.chandu_btech24@gsv.ac.in,M,31/12/2005,B+,N/A,90.2,85,100,87,93,86
+25,Giriraj, , 24AI025,AI&DS,giriraj_btech24@gsv.ac.in,M,20/01/2005,B+,N/A,96.4,93,99,94,99,97
+26,Gopal, Kumar Singh,24AI026,AI&DS,gopal.singh_btech24@gsv.ac.in,M,06/02/2005,B+,N/A,89.2,86,85,95,95,85
+27,Harsh, Bardhan Upadhyay,24AI027,AI&DS,harsh.upadhyay_btech24@gsv.ac.in,M,17/03/2005,B+,N/A,92.6,91,95,85,93,99
+28,Harsh, Trivedi,24AI028,AI&DS,harsh.trivedi_btech24@gsv.ac.in,M,02/04/2005,O+,N/A,93,93,90,89,98,95
+29,Hemanshu, ,24AI029,AI&DS,hemanshu_btech24@gsv.ac.in,M,25/05/2005,O+,N/A,90.6,89,94,90,85,95
+30,Hemant, Malviya,24AI030,AI&DS,hemant.malviya_btech24@gsv.ac.in,M,13/06/2005,O+,N/A,89.6,87,94,88,89,90
+31,Jadhav, Vedant Virendra,24AI031,AI&DS,jadhav.vedant_btech24@gsv.ac.in,M,30/07/2005,O+,N/A,93.8,92,97,95,90,95
+32,Janumpalli, Sriram Reddy,24AI032,AI&DS,janumpalli.reddy_btech24@gsv.ac.in,M,15/01/2004,O+,N/A,92.2,100,86,85,96,94
+33,Kaustubh, Suprabandh Sandeep,24AI033,AI&DS,kaustubh.sandeep_btech24@gsv.ac.in,M,22/03/2004,O+,N/A,92,99,92,95,89,85
+34,Kota, Mahesh,24AI034,AI&DS,kota.mahesh_btech24@gsv.ac.in,M,30/05/2004,O+,N/A,90.4,86,89,90,97,90
+35,Kuppam, Deekshith,24AI035,AI&DS,kuppam.deekshith_btech24@gsv.ac.in,M,18/06/2004,A+,N/A,93.6,96,93,86,94,99
+36,M Madhu, Kushal,24AI036,AI&DS,m.kushal_btech24@gsv.ac.in,M,07/07/2004,A+,N/A,93.4,91,96,98,90,92
+37,Madhav, Swami,24AI037,AI&DS,madhav.swami_btech24@gsv.ac.in,M,12/08/2004,A+,N/A,93.8,95,90,100,94,90
+38,Mandeep, Nehra,24AI038,AI&DS,mandeep.nehra_btech24@gsv.ac.in,M,03/09/2004,A+,N/A,89.6,98,85,87,91,87
+39,Mayuresh, Tiwari,24AI039,AI&DS,mayuresh.tiwari_btech24@gsv.ac.in,M,26/10/2004,A+,N/A,91.4,90,96,91,89,91
+40,Mohit, Motsara,24AI040,AI&DS,mohit.motsara_btech24@gsv.ac.in,M,14/11/2004,A+,N/A,94,91,95,98,87,99
+41,Mrunal, Vijay Karwa,24AI041,AI&DS,mrunal.karwa_btech24@gsv.ac.in,F,05/12/2004,A+,N/A,92,96,93,90,89,92
+42,Nitin, Bagaria,24AI042,AI&DS,nitin.bagaria_btech24@gsv.ac.in,M,25/12/2004,AB+,N/A,92.6,91,93,93,91,95
+43,Patnam, Sujitha,24AI043,AI&DS,patnam.sujitha_btech24@gsv.ac.in,F,04/01/2005,AB+,N/A,94,100,87,93,100,90
+44,Piyush, Yadav,24AI044,AI&DS,piyush.yadav_btech24@gsv.ac.in,M,19/02/2005,AB+,N/A,93.2,88,94,100,97,87
+45,Pratima, Chauhan,24AI045,AI&DS,pratima.chauhan_btech24@gsv.ac.in,F,08/03/2005,B-,N/A,90.2,94,85,91,88,93
+46,Priyanshu, Pratik,24AI046,AI&DS,priyanshu.pratik_btech24@gsv.ac.in,M,27/04/2005,B-,N/A,99,100,98,98,100,99
+47,Rahul, , 24AI047,AI&DS,rahul_btech24@gsv.ac.in,M,11/05/2005,O-,N/A,88.2,89,90,87,87,88
+48,Rishi, Singh,24AI048,AI&DS,rishi.singh_btech24@gsv.ac.in,M,29/06/2005,O-,N/A,90.2,100,91,86,87,87
+49,S K, Priyanshu,24AI049,AI&DS,s.k.priyanshu_btech24@gsv.ac.in,M,15/07/2005,A-,N/A,93.4,96,85,95,92,99
+50,Salot, Sakshi Nimesh,24AI050,AI&DS,salot.sakshi_btech24@gsv.ac.in,F,03/08/2005,A-,N/A,90.6,94,88,94,86,91
+51,Sarvesh, Chille,24AI051,AI&DS,sarvesh.chille_btech24@gsv.ac.in,M,20/09/2005,AB-,N/A,91.2,93,97,90,91,85
+52,Saurabh, Kumar Bosak,24AI052,AI&DS,saurabh.bosak_btech24@gsv.ac.in,M,07/10/2005,B+,N/A,93.4,85,99,89,94,100
+53,Shruti, Prasad,24AI053,AI&DS,shruti.prasad_btech24@gsv.ac.in,F,24/11/2005,B+,N/A,92,94,96,85,85,100
+54,Tushar, Sabharwal,24AI054,AI&DS,tushar.sabharwal_btech24@gsv.ac.in,M,13/12/2005,B+,N/A,93,87,95,97,98,88
+55,Vedant, Pathak,24AI055,AI&DS,vedant.pathak_btech24@gsv.ac.in,M,31/12/2005,B+,N/A,89,88,91,85,85,96
+56,Vibhu, Narayan Kaushik,24AI056,AI&DS,vibhu.kaushik_btech24@gsv.ac.in,M,20/01/2005,B+,N/A,90.4,89,87,93,90,93
+57,Vikas, Khairiya,24AI057,AI&DS,vikas.khairiya_btech24@gsv.ac.in,M,06/02/2005,B+,N/A,97.2,93,96,100,97,100
+58,Vinamra, Tiwari,24AI058,AI&DS,vinamra.tiwari_btech24@gsv.ac.in,M,17/03/2005,B+,N/A,92.8,90,93,94,88,99
