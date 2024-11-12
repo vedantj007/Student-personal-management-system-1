@@ -22,6 +22,7 @@
 On running the program, you will be prompted for a username and password.
 
 Username: student.administration@gsv.ac.in
+
 Password: GSV#2028
 Once authenticated, you will have access to the main menu with the following options:
 
