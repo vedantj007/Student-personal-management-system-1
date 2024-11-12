@@ -3,11 +3,17 @@
 ## Features
 
 - **Authentication**: User verification before accessing or modifying student records.
+
 - **Add Student**: Add new student details to the CSV file.
+
 - **Find Student**: Search for a student by roll number, first name, or branch.
+
 - **Delete Student**: Remove a student’s record from the CSV file.
+
 - **Update Student**: Modify a student’s existing details in the CSV file.
+
 - **View All Records**: Display all student records in the console.
+
 
 ## Requirements
 
