@@ -82,3 +82,64 @@ int is_authenticated() {
 
     return (strcmp(input_username, USERNAME) == 0 && strcmp(input_password, PASSWORD) == 0);
 }
+// View all student records
+void view_records() {
+    FILE *file = fopen(FILE_NAME, "r");
+    if (!file) {
+        perror("Error opening file to view records");
+        return;
+    }
+
+    char line[1024];
+    printf("All Student Records:\n");
+    while (fgets(line, sizeof(line), file)) {
+        printf("%s", line);
+    }
+    fclose(file);
+}
+
+// Find a student by Roll Number, First Name, or Branch
+void find_student() {
+    FILE *file = fopen(FILE_NAME, "r");
+    if (!file) {
+        perror("Error opening file to find student");
+        return;
+    }
+
+    int choice;
+    printf("Search by:\n1. Roll Number\n2. First Name\n3. Branch\n");
+    printf("Enter your choice: ");
+    scanf("%d", &choice);
+
+    char line[1024], search_term[50];
+    int found = 0;
+
+    // Input the search term based on choice
+    printf("Enter search term: ");
+    scanf("%s", search_term);
+
+    // Read each line in the file and check if it matches the search term
+    while (fgets(line, sizeof(line), file)) {
+        int serial, attendance, em_i, ep, cp, im_c, irse;
+        char first[30], last[30], csv_roll[20], branch[30], email[50], gender[10], dob[11], blood[5], med[100];
+
+        // Parse the CSV line
+        sscanf(line, "%d,%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%[^,],%d,%d,%d,%d,%d,%d",
+               &serial, first, last, csv_roll, branch, email, gender, dob, blood, med, &attendance, &em_i, &ep, &cp, &im_c, &irse);
+
+        // Check if the current line matches the search term
+        if ((choice == 1 && strcmp(csv_roll, search_term) == 0) ||
+            (choice == 2 && strcmp(first, search_term) == 0) ||
+            (choice == 3 && strcmp(branch, search_term) == 0)) {
+            // Print the matching record
+            printf("%s", line);
+            found = 1;
+        }
+    }
+
+    if (!found) {
+        printf("No matching record found.\n");
+    }
+
+    fclose(file);
+}
